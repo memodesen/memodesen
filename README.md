@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mehmet Koç</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-<h6> <b> About Me </b> </h6>
+<h6> <b> About Me <b> </h6>
 <p>    I am experienced with,creating databases,backend development and a little bit frontend
 development. I developed various projects using Java, MySQL, Python. In addition, I am
 interested in data science and machine learning. Now, I'm mostly interested in Python and Django. It is my greatest desire to work as a team and to develop in this working process.                          </p> 
 
 
-<h6> <b> Softtech Compulsory Summer Internship-2022</b> </h6> 
+<h6> <b> Softtech Compulsory Summer Internship-2022<b> </h6> 
 <p> I worked as a remote software intern at a
 company called Softtech. Within this internship time frame, we used Flask in Python to
 provide both an educational and forward-looking study on Machine Learning. We made a
