@@ -8,11 +8,7 @@ interested in data science and machine learning. Now, I'm mostly interested in P
 
 
 <h6> <b> Softtech Compulsory Summer Internship-2022</b> </h6> 
-<p> I worked as a remote software intern at a
-company called Softtech. Within this internship time frame, we used Flask in Python to
-provide both an educational and forward-looking study on Machine Learning. We made a
-website. Apart from this, I received important trainings about software and business culture
-by Softtech company.   </p> 
+<p> I worked as a remote software intern at a company called Softtech. During this internship, we developed and maintained a web application that uses Python, Flask, Html and Css to recommend the appropriate course from the desired category within the education platform with machine learning.  Thanks to machine learning, we made these suggestions based on the comments and evaluations that had previously come to the relevant course. Apart from this, I received important trainings about software and business culture by Softtech company.  </p> 
 
 
 
