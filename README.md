@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Turkey</h3>
 
 <h6> <b> About Me </b> </h6>
-<p>    I am experienced with,creating databases,backend development and frontend development. With knowledge in Python, Java, and SQL, I have worked on a range of projects, including building web applications and developing software tools. Now, I'm mostly interested in Python and Django. What I enjoy most in life is to improve myself and share improvement with people.                          </p> 
+<p>    I am experienced with,creating databases,backend development and frontend development. With knowledge in Python,Django,CSS, Java, and SQL. I have worked on a range of projects, including building web applications and developing software tools and technologies. Now, I'm mostly interested in JavaScript. What I enjoy most in life is to improve myself and share improvement with my team.                          </p> 
 
 
 <h6> <b> Softtech Compulsory Summer Internship-2022</b> </h6> 
