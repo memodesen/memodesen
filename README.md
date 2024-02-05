@@ -4,12 +4,12 @@
 <h6> <b> About Me </b> </h6>
 <p>   Experienced with,creating databases,backend development and frontend development. With knowledge in Python, Node.js, React, JavaScript, Ruby on Rails, Java, and SQL. Worked on a range of projects, including building web applications and developing software tools and technologies. Now, I'm mostly interested in .NET. What I enjoy most in life is to improve myself and share improvement with my team.                     </p> 
 
-<h6> <b> Akbank Internship (Back-end Developer Internship) -2024</b> </h6> 
+<h6> <b> Akbank (Part Time Back-end Developer) -2024</b> </h6> 
 <p> Developed on an interface that performs account addition/update/deletion operations related to "TCMB Account".
 Worked with Java for Back-end processes.
   </p> 
 
-<h6> <b> Fazla Gıda Internship (Back-end Developer Internship) -2023</b> </h6> 
+<h6> <b> Fazla Gıda (Back-end Developer Internship) -2023</b> </h6> 
 <p> Developed IoT Stock Application to make the company's inventory management process more effective and real-time. Worked with Ruby on Rails , JavaScript (React) and React Native for development in team. Programmed Ruby on Rails as personally involved in back-end development.  </p> 
 
 
