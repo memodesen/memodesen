@@ -2,12 +2,19 @@
 <h3 align="center">A passionate developer from Turkey</h3>
 
 <h6> <b> About Me </b> </h6>
-<p>    I am experienced with,creating databases,backend development and frontend development. With knowledge in Python, NodeJS, ReactJS, JavaScript, CSS, Java, and SQL. I have worked on a range of projects, including building web applications and developing software tools and technologies. Now, I'm mostly interested in NodeJS. What I enjoy most in life is to improve myself and share improvement with my team.                         </p> 
+<p>   Experienced with,creating databases,backend development and frontend development. With knowledge in Python, Node.js, React, JavaScript, Ruby on Rails, Java, and SQL. Worked on a range of projects, including building web applications and developing software tools and technologies. Now, I'm mostly interested in .NET. What I enjoy most in life is to improve myself and share improvement with my team.                     </p> 
+
+<h6> <b> Akbank Internship (Back-end Developer Intern) -2022</b> </h6> 
+<p> Developed on an interface that performs account addition/update/deletion operations related to "TCMB Account".
+Worked with Java for Back-end processes.
+  </p> 
+
+<h6> <b> Fazla Gıda Internship (Back-end Developer Intern) -2022</b> </h6> 
+<p> Developed IoT Stock Application to make the company's inventory management process more effective and real-time. Worked with Ruby on Rails , JavaScript (React) and React Native for development in team. Programmed Ruby on Rails as personally involved in back-end development.  </p> 
 
 
 <h6> <b> Softtech Compulsory Summer Internship-2022</b> </h6> 
 <p> I worked as a remote software intern at a company called Softtech. During this internship, we developed and maintained a web application that uses Python, Flask, Html and Css to recommend the appropriate course from the desired category within the education platform with machine learning.  Thanks to machine learning, we made these suggestions based on the comments and evaluations that had previously come to the relevant course. Apart from this, I received important trainings about software and business culture by Softtech company.  </p> 
-
 
 
 <h3 align="left">Connect with me:</h3>
